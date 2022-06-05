@@ -1,0 +1,11 @@
+{ 
+ "name": "TOAD",
+ "website": "https://t.me/roadcoin",
+ "description": "toadcoin ",
+ "explorer": "https://bscscan.com/token/0x0a9c729777e011ebd4bde9bf0f97eacd5351ef48",
+ "type": "BEP20",
+ "symbol": "TOAD",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0a9c729777e011ebd4bde9bf0f97eacd5351ef48"
+}
